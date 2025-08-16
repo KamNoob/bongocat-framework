@@ -4,7 +4,7 @@ Main BongoCat scraper class - handles web scraping operations
 
 import asyncio
 import time
-from ..types import Dict, List, Optional, Union, Any
+from ..framework_types import Dict, List, Optional, Union, Any
 
 # Import for type hints only (not executed at runtime)
 from typing import TYPE_CHECKING

@@ -4,7 +4,7 @@ Async Session Manager - Handles HTTP session lifecycle with async/await for high
 
 import asyncio
 import time
-from ..types import Dict, Optional, List
+from ..framework_types import Dict, Optional, List
 from collections import defaultdict
 
 

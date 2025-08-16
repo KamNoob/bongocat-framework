@@ -4,7 +4,7 @@ Proxy Handler - Manages proxy rotation and validation
 
 import random
 import time
-from ..types import List, Dict, Optional
+from ..framework_types import List, Dict, Optional
 
 
 class ProxyHandler:
